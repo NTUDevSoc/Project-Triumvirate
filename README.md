@@ -8,6 +8,10 @@ Key features of the event:
 - [Caesar](https://www.instagram.com/incognito_caesar/) and [Pompey's](https://www.instagram.com/pompeyrulz/) Instagram accounts
 - Caesar's github and the "[super secret](https://github.com/Incognito-Caesar/supersecretproject)" repository
 
+#### The Solution:
+May have a few inaccuracies as a some changes were made prior to launch.
+![Solution](https://github.com/NTUDevSoc/Project-Triumvirate/blob/main/Solution.png)
+
 #### The Backstory:
 "The idea for this event came about after I spent lockdown self-teaching myself more about cybersecurity and it's related topic areas. I wanted to share some of the cool things I had learnt in those few months with everyone in a way that got our whole community working together ... and so Project Triumvirate was born.  
 
